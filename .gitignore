@@ -4,8 +4,10 @@ icon.png.import
 
 # Godot-specific ignores
 .import/
+.godot/
 export.cfg
 export_presets.cfg
+icon.svg*
 
 # Imported translations (automatically generated from CSV files)
 *.translation
